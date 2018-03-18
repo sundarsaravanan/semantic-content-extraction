@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basketball</folder>
+	<filename>basketball21.jpg</filename>
+	<path>/Users/sundar/Downloads/basketball/basketball/basketball21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>1</ymin>
+			<xmax>526</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

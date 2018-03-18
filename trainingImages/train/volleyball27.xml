@@ -1,0 +1,26 @@
+<annotation>
+	<folder>volleyball</folder>
+	<filename>volleyball27.jpg</filename>
+	<path>/Users/sundar/Downloads/basketball/volleyball/volleyball27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3300</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>volleyball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1078</xmin>
+			<ymin>60</ymin>
+			<xmax>1375</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

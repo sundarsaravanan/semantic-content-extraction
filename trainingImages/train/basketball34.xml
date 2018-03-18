@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basketball</folder>
+	<filename>basketball34.jpg</filename>
+	<path>/Users/sundar/Downloads/basketball/basketball/basketball34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3426</width>
+		<height>2376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1330</xmin>
+			<ymin>94</ymin>
+			<xmax>1660</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

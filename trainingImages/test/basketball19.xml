@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basketball</folder>
+	<filename>basketball19.jpg</filename>
+	<path>/Users/sundar/Downloads/basketball/basketball/basketball19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>165</ymin>
+			<xmax>1807</xmax>
+			<ymax>1084</ymax>
+		</bndbox>
+	</object>
+</annotation>

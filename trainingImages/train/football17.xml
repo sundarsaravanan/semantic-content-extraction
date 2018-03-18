@@ -1,0 +1,26 @@
+<annotation>
+	<folder>football</folder>
+	<filename>football17.jpg</filename>
+	<path>/Users/sundar/Downloads/basketball/football/football17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>594</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>340</ymin>
+			<xmax>438</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
